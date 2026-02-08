@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohamed Kassem — Back-end .NET Developer</h1>
 <h3 align="center">A Back-end .NET Developer passionate about building scalable web applications.</h3>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=.NET+Developer&size=24)](https://git.io/typing-svg)
 
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-a-kassem&label=Profile%20views&color=0e75b6&style=flat" alt="m-a-kassem" /> </p>
 
 - 📫 How to reach me **mohamedahmedkassem1@gmail.com**
