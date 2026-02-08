@@ -62,5 +62,4 @@
     <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/>
   </a>
 </p>
->
 
