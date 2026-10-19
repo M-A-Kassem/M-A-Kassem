@@ -6,12 +6,25 @@ I build RPA solutions and backend applications using Python, C#, and ASP.NET Cor
 
 ## 📫 Connect With Me
 
-\<p align="center">
-&#x20; \<a href="[https://www.linkedin.com/in/mohamed-a-kassem](https://www.linkedin.com/in/mohamed-a-kassem)">LinkedIn\</a> ·
-&#x20; \<a href="[https://github.com/MohamedahmedKassem](https://github.com/MohamedahmedKassem)">GitHub\</a> ·
-&#x20; \<a href="mailto\:mohamedahmedkassem1\@gmail.com">Email\</a> ·
-&#x20; \<a href="[https://m-a-kassem.github.io/portfolio/](https://m-a-kassem.github.io/portfolio/)">Portfolio\</a>
-\</p>
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohamed-a-kassem" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/MohamedahmedKassem" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="32" height="32"/>
+  </a>
+  &nbsp;
+  <a href="mailto:mohamedahmedkassem1@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="32" height="32"/>
+  </a>
+  &nbsp;
+  <a href="https://m-a-kassem.github.io/portfolio/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Portfolio" width="32" height="32"/>
+  </a>
+</p>
 
 ## 🛠️ Tech Stack
 
